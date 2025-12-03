@@ -1,5 +1,3 @@
-# Object-Detection
-
 #  Object Detection using Python & OpenCV
 
 This project demonstrates real-time object detection using Python, OpenCV, and a pre-trained deep learning model. The system captures live video from the camera and detects multiple objects with bounding boxes and labels.
